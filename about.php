@@ -1,4 +1,4 @@
 <?php
 
 
-echo 'About page for git project'
+echo 'About page for git project';
